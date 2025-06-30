@@ -12,8 +12,8 @@ Small utility to list all container images running in a Kubernetes cluster.
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/modcatz/k8s-list-images.git
+cd k8s-list-images
 ```
 
 2. Install the required Python packages:
